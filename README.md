@@ -1,4 +1,4 @@
-# GP Slideshow
+# GP Slideshow (100% vibe coded, use at own risk!)
 
 Android-app som visar ett bildspel med bilder och videor från ditt Google
 Photos-konto. Du väljer själv vilka medier som ska visas via Googles
